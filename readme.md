@@ -1,4 +1,4 @@
-**Forked March 4th 2019 . Merged the open multi-call pull request as required.**
+**Forked March 4th 2019 . Merged the open multi-call pull request bug fix as provided in the PR branch found at https://github.com/Criptext/electron-better-ipc.**
 
 # electron-better-ipc [![Build Status](https://travis-ci.org/sindresorhus/electron-better-ipc.svg?branch=master)](https://travis-ci.org/sindresorhus/electron-better-ipc)
 
