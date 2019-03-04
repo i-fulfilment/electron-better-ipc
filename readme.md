@@ -1,3 +1,5 @@
+**Forked March 4th 2019 . Merged the open multi-call pull request as required.**
+
 # electron-better-ipc [![Build Status](https://travis-ci.org/sindresorhus/electron-better-ipc.svg?branch=master)](https://travis-ci.org/sindresorhus/electron-better-ipc)
 
 > Simplified IPC communication for Electron apps
